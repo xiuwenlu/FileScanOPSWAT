@@ -185,8 +185,8 @@ def upload_file(filename, apikey):
         else:
             print(data)
 
-"""Call this function: upload_file(filename, apikey)"""
-# upload_file(filename, apikey)
+"""Call this function: upload_file(filename, apikey) with the required inputs"""
+# upload_file("filename", "apikey")
 
 
 
